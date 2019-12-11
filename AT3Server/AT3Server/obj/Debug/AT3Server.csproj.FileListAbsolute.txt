@@ -1,0 +1,9 @@
+E:\TAFE-2019-S2\C# Programming\Programming 3\AT3 Project Kyle Cleofe 30000250\AT3Server\AT3Server\obj\Debug\AT3Server.csprojAssemblyReference.cache
+E:\TAFE-2019-S2\C# Programming\Programming 3\AT3 Project Kyle Cleofe 30000250\AT3Server\AT3Server\obj\Debug\AT3Server.AT3Server.resources
+E:\TAFE-2019-S2\C# Programming\Programming 3\AT3 Project Kyle Cleofe 30000250\AT3Server\AT3Server\obj\Debug\AT3Server.Properties.Resources.resources
+E:\TAFE-2019-S2\C# Programming\Programming 3\AT3 Project Kyle Cleofe 30000250\AT3Server\AT3Server\obj\Debug\AT3Server.csproj.GenerateResource.cache
+E:\TAFE-2019-S2\C# Programming\Programming 3\AT3 Project Kyle Cleofe 30000250\AT3Server\AT3Server\bin\Debug\AT3Server.exe.config
+E:\TAFE-2019-S2\C# Programming\Programming 3\AT3 Project Kyle Cleofe 30000250\AT3Server\AT3Server\bin\Debug\AT3Server.exe
+E:\TAFE-2019-S2\C# Programming\Programming 3\AT3 Project Kyle Cleofe 30000250\AT3Server\AT3Server\bin\Debug\AT3Server.pdb
+E:\TAFE-2019-S2\C# Programming\Programming 3\AT3 Project Kyle Cleofe 30000250\AT3Server\AT3Server\obj\Debug\AT3Server.exe
+E:\TAFE-2019-S2\C# Programming\Programming 3\AT3 Project Kyle Cleofe 30000250\AT3Server\AT3Server\obj\Debug\AT3Server.pdb
